@@ -1,4 +1,4 @@
-# PumpFun Bot
+# PumpFun Sniper Bot
 
 It's a Bot for sniping memecoins on Pump.Fun in your CMD. Fully made in Typescript. It uses the Solana blockchain and the Anchor framework to interact with the Pump.Fun bonding curve contract. The bot is designed to be fast and efficient, allowing you to quickly and easily snipe memecoins. It includes features such as automatic token acquisition, automatic price monitoring, and configurable settings.
 
