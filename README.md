@@ -9,6 +9,22 @@ However, the speed of the script is still second and RPC is another matter.
 It is the RPC that determines how fast the tx will go through.
 Using a free Quicknode RPC & automatic mode it took around 5-15s to be a coin since it's created.
 
+# Updated Version(with grpc)
+
+In updated version with grpc, I use grpc to get info. It can make my pupmfun sniper bot more fast and esily to buy token within 2s at the first block.
+
+- Geyser gRPC Pump.fun Sniper Bot (Speedest):
+
+```bash
+mint: https://solscan.io/tx/QKbc9RxNZPE7peDNPnxBtPMux2HfTfn9QN2AwEr7Z5P1SS1qw42FYZcXqzkm9APVkTH88ieZU4PUaCU93yPNfGa
+buy: https://solscan.io/tx/5NV4oAJacFfNffAb55hkb6LEKsSTjgMd8vTzTvDKBLQvQ5XCogizBLShnpF89J8tqFrYJAHaUS5tmXtb6SBpEdNz
+sell:
+https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwmaDXz7EYS1jC9oQq8z7V8GwTsEv94dSwdhU9s5b
+```
+- buy & sell
+  
+<a href="https://ibb.co/ks51qyxT"><img src="https://i.ibb.co/ks51qyxT/buy-2block.png" alt="buy-2block" border="0"></a> <a href="https://ibb.co/bMtsFKqL"><img src="https://i.ibb.co/bMtsFKqL/mint-2block.png" alt="mint-2block" border="0"></a>
+
 # Main tools
 
 - **Automatic sniper**: Launch a monitor on every new coin and automatically buy it
