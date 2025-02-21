@@ -59,4 +59,4 @@ To run Pump.fun bot, follow these steps:
 
 ## Contact
 
-- If u have interest or help, contact here telegram: [@shiny0103](https://t.me/shiny0103)
+- If u have interest or help, contact here telegram: [Telegram](https://t.me/shiny0103)
