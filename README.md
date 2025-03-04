@@ -1,15 +1,24 @@
-# PumpFun Sniper Bot
+# PumpFun amm Sniper Bot
 
-It's a Bot for sniping memecoins on Pump.Fun in your CMD. Fully made in Typescript. It uses the Solana blockchain and the Anchor framework to interact with the Pump.Fun bonding curve contract. The bot is designed to be fast and efficient, allowing you to quickly and easily snipe memecoins. It includes features such as automatic token acquisition, automatic price monitoring, and configurable settings.
+Pumpfun sniper with grpc integrated with pumpfun amm. The updated version uses gRPC to improve the overall transaction speed and can sniping tokens on pumpfunn amm.
 
-# Bot speed
+## Contact
+
+- If u have interest or help, contact here telegram: [Telegram](https://t.me/shiny0103)
+
+## New updated version 
+
+This bot extends to pumpfun AMM(it's a new project one)
+
+
+## Bot speed
 
 The bot works pretty fast, it's in typescript so it will be obviously outperformed by other bots in Go/Rust, tho. That's why it's more likely a toy to experiment & learn than opportunity to earn some Sol.
 However, the speed of the script is still second and RPC is another matter.
 It is the RPC that determines how fast the tx will go through.
 Using a free Quicknode RPC & automatic mode it took around 5-15s to be a coin since it's created.
 
-# Updated Version(with grpc)
+## Updated Version(with grpc)
 
 In updated version with grpc, I use grpc to get info. It can make my pupmfun sniper bot more fast and esily to buy token within 2s at the first block.
 
@@ -25,7 +34,7 @@ https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwmaDXz7EYS
   
 <a href="https://ibb.co/ks51qyxT"><img src="https://i.ibb.co/ks51qyxT/buy-2block.png" alt="buy-2block" border="0"></a> <a href="https://ibb.co/bMtsFKqL"><img src="https://i.ibb.co/bMtsFKqL/mint-2block.png" alt="mint-2block" border="0"></a>
 
-# Main tools
+## Main tools
 
 - **Automatic sniper**: Launch a monitor on every new coin and automatically buy it
 - **Single sniper**: Buy a single coin just by providing it's contract address
@@ -57,6 +66,4 @@ To run Pump.fun bot, follow these steps:
 - [inquirer](https://www.npmjs.com/package/inquirer)
 - [typescript](https://www.npmjs.com/package/typescript)
 
-## Contact
 
-- If u have interest or help, contact here telegram: [Telegram](https://t.me/shiny0103)
